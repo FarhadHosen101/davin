@@ -32,18 +32,18 @@ Ensure the following tools are installed before running the script:
 ## Installation
 Clone the repository and navigate into it:
 ```bash
-git clone https://github.com/coffinxp/davin.git
-cd davin
+git clone https://github.com/coffinxp/davinfuzzer.git
+cd davinfuzzer
 ```
 Make the script executable:
 ```bash
-chmod +x davin.sh
+chmod +x davinfuzzer.sh
 ```
 
 ## Usage
 Run the script and follow the prompts:
 ```bash
-./davin.sh
+./davinfuzzer.sh
 ```
 You'll be asked to provide:
 - A **target domain** or a **file** containing a list of subdomains
